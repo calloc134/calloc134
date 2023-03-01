@@ -73,9 +73,9 @@ calloc134です
    - はじめてのバイナリ解析読了
    - 解題Pwnable ROP gadgetの部分で頓挫…
 
-CTFデビューはそろそろします
+CTFデビューはそろそろします  
 
-こんな感じで生きています
+こんな感じで生きています  
 宜しくお願いします
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
