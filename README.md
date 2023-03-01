@@ -41,11 +41,11 @@ calloc134です
         - swagger(OpenAPI)
   - AWS
     - これは座学のみ(AWS Academy)
-      - EC2
-      - VPC切り分け
-      - RDB (HA構成)
-      - ELB(L7モード)
-      - あまり活かせていない技術なので近いうちに還元したい
+    - EC2
+    - VPC切り分け
+    - RDB (HA構成)
+    - ELB(L7モード)
+    - あまり活かせていない技術なので近いうちに還元したい
 
 #### 今後やりたいこと
  - 多言語によるバックエンド開発
@@ -71,7 +71,7 @@ calloc134です
  - リバースエンジニアリング/アセンブリ読解 (Rev)
  - 低レイヤセキュリティ (Pwning)
    - はじめてのバイナリ解析読了
-   - 解題Pwnable ROP gadgetの部分で頓挫…
+   - 解題Pwnable (ROP gadgetの部分で頓挫…)
 
 CTFデビューはそろそろします  
 
@@ -79,8 +79,8 @@ CTFデビューはそろそろします
 宜しくお願いします
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=dummysal&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=calloc134&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dummysal" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calloc134" />
 </a>
