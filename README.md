@@ -6,14 +6,14 @@ calloc134です
 ---
 #### 使ったりするプログラミング言語
  - Python (軽く自動化する等)
- - Golang (同じく)
- - JavaScript/TypeScript (フロントエンド/バックエンド共に)
- - C言語(主にセキュリティ面にて学習)
+ - Golang (簡単なCLIツールに)
+ - Rust (raxtestというツールをRustで書きました)
+ - TypeScript (フロントエンド/バックエンド共に)
 
 #### 知っている言語
  - Java (書いたことはあまりない)
  - Visual Basic (雰囲気にて)
- - Rust (近いうちに書きたい)
+ - C言語(主にセキュリティ面にて学習。メインでは書かない)
 
 
 #### その他技術等/やったことがあるもの
@@ -29,7 +29,7 @@ calloc134です
    - iptables/ufw
    - ssh
  - Webフロントエンド
-    - React
+    - React + Vite
     - Next.js
       - React-Query(Tanstack Query)
       - Chakra UI
@@ -40,7 +40,7 @@ calloc134です
         - class-validator
         - swagger(OpenAPI)
   - AWS
-    - これは座学のみ(AWS Academy)
+    - 実運用経験はなし(AWS Academy)
     - EC2
     - VPC切り分け
     - RDB (HA構成)
@@ -48,10 +48,18 @@ calloc134です
     - あまり活かせていない技術なので近いうちに還元したい
 
 #### 今後やりたいこと
- - 多言語によるバックエンド開発
-   - Golang
-   - Rust
+ - Remix, frourioの学習
+ - 他言語によるバックエンド開発
+   - Rust actix-web
  - k8s勉強
+ - マイクロサービスでの開発の学習
+ - CI/CDを利用した
+   - インフラ構築
+   - 構成管理
+   - ユニットテスト
+   - 統合テスト
+   - ログ監視  
+の自動化
  - 大規模Windowsネットワーク運用
    - Active Directory
  - 認証認可
@@ -67,10 +75,12 @@ calloc134です
 #### その他興味有分野
 
  - Webセキュリティ
-   - 徳丸本/リアルワールドバグハンティング読了
+   - 徳丸本/リアルワールドバグハンティング 読了
+   - APIハッキング 読了
  - リバースエンジニアリング/アセンブリ読解 (Rev)
  - 低レイヤセキュリティ (Pwning)
    - はじめてのバイナリ解析読了
+   - 実践バイナリ解析を読みたい
    - 解題Pwnable (ROP gadgetの部分で頓挫…)
 
 CTFデビューはそろそろします  
