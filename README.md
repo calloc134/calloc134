@@ -15,12 +15,15 @@ calloc134です
  - Visual Basic (雰囲気にて)
  - C言語 (主にセキュリティ面にて学習。メインでは書かない)
  - c++, F#... (最低限)
+ - Elixir (現在絶賛学習中)
 
 #### 使用フレームワーク
  - React
+  - shadcn/uiはいいぞ
  - Express.js
  - fastify
  - Nest.JS
+ - graphql-yoga
  等
 
 
@@ -58,19 +61,17 @@ calloc134です
     - RDB (HA構成)
     - ELB(L7モード)でEC2オートスケーリング環境に振り分け構築体験を実施
     - あまり活かせていない技術なので近いうちに還元したい
+   - GCP/Azure
+    - Azureは学生無料枠でサーバ立てたりしました(現在費用の問題で休眠中) 
 
 #### 今後やりたいこと
- - Google Cloud, Azureを学習中
- - Remix, frourioの学習
+ - Google Cloud, Azureを学習
  - 他言語によるバックエンド開発
    - Rust actix-web
  - k8s勉強
  - マイクロサービスでの開発の学習
  - CI/CDを利用した
    - インフラ構築 構成管理 テスト ログ監視 運用の自動化
- - 大規模Windowsネットワーク運用
-   - Active Directory
- - 認証認可学習
 
 他にも出来ることは随時Githubリポジトリとして出していく予定です
 
@@ -96,6 +97,7 @@ https://zenn.dev/calloc134/articles/b7b93c9157b882
 CTFデビューは~~そろそろします~~  
 DCDC AcademyとしてRicerca CTFにデビューしました  
 https://zenn.dev/calloc134/articles/8e8de82bd2a313  
+ctf4bやその他CTFへチームで参加したりしています
 
 こんな感じで生きています  
 宜しくお願いします  
