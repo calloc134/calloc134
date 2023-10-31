@@ -1,79 +1,105 @@
 ### Hello World 👋
 
-calloc134です  
-情報工学を学んでいる春からB2の学生です
+calloc134 です  
+情報工学を学んでいる春から B2 の学生です
 
 ---
+
+#### 宣伝
+
+現在 callstack という Web 開発ボイラープレートを作成中です  
+自分の好きな技術をひたすら詰め込んでいます
+
+八月時点での進捗
+
+<iframe class="speakerdeck-iframe" style="border: 0px; background: rgba(0, 0, 0, 0.1) padding-box; margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" frameborder="0" src="https://speakerdeck.com/player/d72d72ac301b4f5b96d77bae6e6c48f5" title="【Web開発】モノリポボイラープレートを趣味でゴリゴリ作成した話" allowfullscreen="true" data-ratio="1.7777777777777777"></iframe>
+
+スターをもらえると喜びます ↓
+
+[リンクはこちら](https://github.com/calloc134/callstack)
+
+---
+
+また、技術記事や情報を集めるコミュニティ「かろ噴水」を運営しています
+
+興味があればご連絡ください
+
+## <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">discord で「かろ噴水」というサーバを作って技術の話題をまとめたりしています<br>興味のある人は気軽に声かけてください<br>フロントからバックからインフラからセキュリティから Linux からクラウドからアーキテクチャからたまに例レイヤまで色々スクラップ生えてます <a href="https://t.co/1BRXC2y1u8">pic.twitter.com/1BRXC2y1u8</a></p>&mdash; かろっく (@calloc134) <a href="https://twitter.com/calloc134/status/1710308066556604566?ref_src=twsrc%5Etfw">October 6, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
 #### 使ったりするプログラミング言語
- - Python (軽く自動化する等)
- - Golang (同じく)
- - JavaScript/TypeScript (フロントエンド/バックエンド共に)
- - C言語(主にセキュリティ面にて学習)
+
+- Python (軽く自動化する等)
+- Golang (同じく)
+- JavaScript/TypeScript (フロントエンド/バックエンド共に)
+- C 言語(主にセキュリティ面にて学習)
 
 #### 知っている言語
- - Java (書いたことはあまりない)
- - Visual Basic (雰囲気にて)
- - Rust (近いうちに書きたい)
 
+- Java (書いたことはあまりない)
+- Visual Basic (雰囲気にて)
+- Rust (近いうちに書きたい)
 
 #### その他技術等/やったことがあるもの
- - Git, Github
-   - ブランチ分割の開発は一応可能
- - Docker
-   - docker composeを書いたりは可能
- - Linux
-   - Arch Linux/ Manjaroを主に利用
-   - VPSにてサイト運用の経験有
- - サーバ運用
-   - Nginx
-   - iptables/ufw
-   - ssh
- - Webフロントエンド
-    - React
-    - Next.js
-      - React-Query(Tanstack Query)
-      - Chakra UI
-      - React Hook Form
- - Webバックエンド
-      - Nest.js
-        - Prisma
-        - class-validator
-        - swagger(OpenAPI)
-  - AWS
-    - これは座学のみ(AWS Academy)
-    - EC2
-    - VPC切り分け
-    - RDB (HA構成)
-    - ELB(L7モード)
-    - あまり活かせていない技術なので近いうちに還元したい
+
+- Git, Github
+  - ブランチ分割の開発は一応可能
+- Docker
+  - docker compose を書いたりは可能
+- Linux
+  - Arch Linux/ Manjaro を主に利用
+  - VPS にてサイト運用の経験有
+- サーバ運用
+  - Nginx
+  - iptables/ufw
+  - ssh
+- Web フロントエンド
+  - React
+  - Next.js
+    - React-Query(Tanstack Query)
+    - Chakra UI
+    - React Hook Form
+- Web バックエンド
+  - Nest.js
+    - Prisma
+    - class-validator
+    - swagger(OpenAPI)
+- AWS
+  - これは座学のみ(AWS Academy)
+  - EC2
+  - VPC 切り分け
+  - RDB (HA 構成)
+  - ELB(L7 モード)
+  - あまり活かせていない技術なので近いうちに還元したい
 
 #### 今後やりたいこと
- - 多言語によるバックエンド開発
-   - Golang
-   - Rust
- - k8s勉強
- - 大規模Windowsネットワーク運用
-   - Active Directory
- - 認証認可
-   - KeyCloak
-     - OIDC
-     - SAML
-     - Kerberos
-     - LDAP
 
-他にも出来ることは随時Githubリポジトリとして出していく予定です
+- 多言語によるバックエンド開発
+  - Golang
+  - Rust
+- k8s 勉強
+- 大規模 Windows ネットワーク運用
+  - Active Directory
+- 認証認可
+  - KeyCloak
+    - OIDC
+    - SAML
+    - Kerberos
+    - LDAP
 
+他にも出来ることは随時 Github リポジトリとして出していく予定です
 
 #### その他興味有分野
 
- - Webセキュリティ
-   - 徳丸本/リアルワールドバグハンティング読了
- - リバースエンジニアリング/アセンブリ読解 (Rev)
- - 低レイヤセキュリティ (Pwning)
-   - はじめてのバイナリ解析読了
-   - 解題Pwnable (ROP gadgetの部分で頓挫…)
+- Web セキュリティ
+  - 徳丸本/リアルワールドバグハンティング読了
+- リバースエンジニアリング/アセンブリ読解 (Rev)
+- 低レイヤセキュリティ (Pwning)
+  - はじめてのバイナリ解析読了
+  - 解題 Pwnable (ROP gadget の部分で頓挫…)
 
-CTFデビューはそろそろします  
+CTF デビューはそろそろします
 
 こんな感じで生きています  
 宜しくお願いします
