@@ -10,10 +10,6 @@ calloc134 です
 現在 callstack という Web 開発ボイラープレートを作成中です  
 自分の好きな技術をひたすら詰め込んでいます
 
-八月時点での進捗
-
-<iframe class="speakerdeck-iframe" style="border: 0px; background: rgba(0, 0, 0, 0.1) padding-box; margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 315;" frameborder="0" src="https://speakerdeck.com/player/d72d72ac301b4f5b96d77bae6e6c48f5" title="【Web開発】モノリポボイラープレートを趣味でゴリゴリ作成した話" allowfullscreen="true" data-ratio="1.7777777777777777"></iframe>
-
 スターをもらえると喜びます ↓
 
 [リンクはこちら](https://github.com/calloc134/callstack)
@@ -24,9 +20,7 @@ calloc134 です
 
 興味があればご連絡ください
 
-## <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">discord で「かろ噴水」というサーバを作って技術の話題をまとめたりしています<br>興味のある人は気軽に声かけてください<br>フロントからバックからインフラからセキュリティから Linux からクラウドからアーキテクチャからたまに例レイヤまで色々スクラップ生えてます <a href="https://t.co/1BRXC2y1u8">pic.twitter.com/1BRXC2y1u8</a></p>&mdash; かろっく (@calloc134) <a href="https://twitter.com/calloc134/status/1710308066556604566?ref_src=twsrc%5Etfw">October 6, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
+## <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">discord で「かろ噴水」というサーバを作って技術の話題をまとめたりしています<br>興味のある人は気軽に声かけてください<br>フロントからバックからインフラからセキュリティから Linux からクラウドからアーキテクチャからたまに例レイヤまで色々スクラップ生えてます <a href="https://t.co/1BRXC2y1u8">pic.twitter.com/1BRXC2y1u8</a></p>&mdash; かろっく (@calloc134) <a href="https://twitter.com/calloc134/status/1710308066556604566?ref_src=twsrc%5Etfw">October 6, 2023</a></blockquote>
 
 #### 使ったりするプログラミング言語
 
