@@ -20,6 +20,7 @@ calloc134です
 #### 使用フレームワーク
  - React
   - shadcn/uiはいいぞ
+  - panda css楽しくなってきた
  - Express.js
  - fastify
  - Nest.JS
