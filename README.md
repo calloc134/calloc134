@@ -15,6 +15,8 @@ docker compose/k8s(少しだけど)/ArchLinux/Ubuntu/Debian/nginx/apache/traefik
 zod/valibot/graphql codegen/swc/esbuild(tsx)/pnpm/turborepo/
 aws/azure/cyclicsh/zeabur/heroku/cloudflare workers  
 
+あとちょっと作曲ができて、絶対音感を持っています むふー  
+
 現在クラウドネイティブアーキテクチャ・データドリブンなアプリケーション等色々学習中  
 
 CTFにもたまに出ていたりゆるゆるやってます  
