@@ -1,7 +1,7 @@
 ### Hello World 👋
 
 calloc134 です  
-情報工学を学んでいる学生 B2 です
+情報工学を学んでいる学生 B3 です
 
 普段どんなことしているかは zenn やその他 twitter など見ていただけると嬉しいです
 フロントエンドとバックエンドとインフラとセキュリティを行き来しています
@@ -17,7 +17,7 @@ docker compose/k8s(少しだけど)/ArchLinux/Ubuntu/Debian/nginx/apache/traefik
 zod/valibot/graphql codegen/swc/esbuild(tsx)/pnpm/turborepo/
 aws/azure/cyclicsh/zeabur/heroku/cloudflare workers
 
-あとちょっと作曲ができて、絶対音感を持っています むふー
+あとちょっと作曲ができて、絶対音感を持っています
 
 現在クラウドネイティブアーキテクチャ・データドリブンなアプリケーション等色々学習中
 
