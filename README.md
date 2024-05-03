@@ -1,5 +1,7 @@
 ### Hello World 👋
 
+<img src="./calloc_logo_2.png" align="center" />
+
 calloc134 です  
 情報工学を学んでいる学生 B3 です
 
