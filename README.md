@@ -19,7 +19,7 @@
 calloc134 です  
 情報工学を学んでいる学生 B3 です
 
-普段どんなことしているかは zenn やその他 twitter など見ていただけると嬉しいです
+普段どんなことしているかは 自己紹介スライド・zenn やその他 twitter など見ていただけると嬉しいです
 
 フロントエンドとバックエンドとインフラとセキュリティを行き来しています
 
@@ -31,8 +31,11 @@ CTF にもたまに出ていたりゆるゆるやってます
 
 宜しくお願いします～
 
+- [自己紹介スライド](https://speakerdeck.com/calloc134/karotukuzi-ji-shao-jie)
+- [bento](https://bento.me/calloc134)
 - [zenn](https://zenn.dev/calloc134)
 - [twitter](https://twitter.com/calloc134)
+- [wantedly](https://www.wantedly.com/id/calloc134)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=calloc134&count_private=true&show_icons=true" />
