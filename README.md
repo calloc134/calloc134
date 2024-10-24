@@ -1,7 +1,7 @@
 ### Hello World 👋
 
 <div align="center">
-  <img src="./calloc_logo_2.png" />
+  <img src="./calloc_logo_new.png" />
   <p>
     自作のロゴです
   </p>
@@ -20,6 +20,7 @@ calloc134 です
 情報工学を学んでいる学生 B3 です
 
 普段どんなことしているかは 自己紹介スライド・zenn やその他 twitter など見ていただけると嬉しいです
+Zenn ブログの執筆にはかなり力を入れているため、是非ご確認ください！
 
 フロントエンドとバックエンドとインフラとセキュリティを行き来しています
 
